@@ -4,6 +4,9 @@ ML-profile help us to generate the Multiple ML model with two line of code to un
 #### functionality :
               1. create_model(dataframe, label, model_type="classification") #without hypyer parameter tuning
               2. model_with_tuned_param(dataframe, label, model_type="classification") #hyper parameter tuning with RandomSearchCV
+
+
+#### [Example for classification](https://github.com/munishrajora/ML-Profiling/blob/main/Example.ipynb)
               
 
 #### list of Algorithm 
